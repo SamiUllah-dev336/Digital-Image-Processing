@@ -1,4 +1,4 @@
-myFilter8 = [-1 -1 -1; -1 8 -1; -1 -1 -1];
+myFilter8 = [-1 -2 -1;0 0 0;1 2 1];
 
 myOrigImage = rgb2gray(imread("E:\Matlab\assets\flower.png"));
 
